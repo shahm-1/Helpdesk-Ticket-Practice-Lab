@@ -1,6 +1,6 @@
 # 🎫 Help Desk Ticketing Lab (Tier 1–3)
 
-This repository documents hands-on **Help Desk ticket simulations** demonstrating real-world **Tier 1, Tier 2, and Tier 3 troubleshooting**, security-first practices, and professional ticket documentation.
+This repository documents hands-on **Help Desk ticket simulations** demonstrating real-world **Tier 1, Tier 2, and Tier 3 troubleshooting**, security-first practices, and professional ticket documentation. Just to give you a walk-through of my thought process when approaching Help Desk Scenarios.
 
 ---
 
